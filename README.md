@@ -1,6 +1,8 @@
 # Neural-Networks
 Using Neural Network to Classify MNIST Data
 
+This is neural network implementation from scratch using NumPy library for computations and ScikitLearn library for measuring the accuracy of the model.Pandas library has been used for converting labels to one-hot encoding and matplotlib has been used for data Visualization and accuracy graphs.
+
 The configuration for the Model is:
 
 Number of Hidden layers: 2
